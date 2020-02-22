@@ -1,2 +1,0 @@
-Send it to us!
-If you’d prefer to send us your builds, send us an email to magpi@raspberrypi.com with the subject line #MonthOfMaking.

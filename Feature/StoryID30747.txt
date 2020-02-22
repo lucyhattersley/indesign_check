@@ -1,2 +1,0 @@
-Tools for the job
-Not everyone has a full workshop of tools and gizmos, especially if this is your first foray into making. Check out issue 89 of The MagPi (magpi.cc/89) for our 50 Tips & Tools feature, which has plenty of tool suggestions.

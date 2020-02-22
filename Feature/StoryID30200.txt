@@ -1,3 +1,0 @@
-NeoPixel display lights
-Skills: Programming, 		circuits, soldering
-magpi.cc/neopixelpi

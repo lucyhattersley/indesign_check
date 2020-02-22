@@ -1,3 +1,0 @@
-Robot costume
-Skills: Wearables, programming, APIs
-magpi.cc/robotcostume

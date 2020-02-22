@@ -1,3 +1,0 @@
-Robot kit
-Skills: Construction, robotics, programming
-magpi.cc/monsterborg
