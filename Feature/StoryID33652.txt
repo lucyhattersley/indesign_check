@@ -1,0 +1,13 @@
+Even the greatest makers need help sometimes – their secret is that they have found great ways to get support when they’re stuck. Aside from having the right 	friends and the right reputation, there’s no real secret as to where you can get your help from on the internet.
+
+Search engines
+Your first port of call should always be your preferred search engine. Whether you want to know if something is possible (and maybe get a tutorial for it) or need help with a specific coding issue, you’re likely to find a solution.
+Be careful with your keywords, though – being specific can help you out a lot, and if you know the exact wording or phrasing of the issue you’re searching for, it can make sorting out your problems much quicker.
+
+Social media
+While some people may refer to this as the ‘lazy web’, we think it’s totally fine to ask a question on social media while you try to look for a solution elsewhere. Sometimes people can parse your language and ask the right questions to get to the bottom of a problem faster than trying to refine your Google search.
+If there’s a relevant hashtag, make sure to use it. During March, if you use #MonthOfMaking, we’ll try to elevate the issue and get experts to help you out.
+
+Question sites
+There are a few online sites where you can ask questions. For Raspberry Pi-related queries, you can always visit the Raspberry Pi forums that we mentioned before. However, for all code-related issues, you can always check out the amazing Stack Overflow. It’s used by professionals and amateurs alike to answer their questions.
+For physical making stuff, it depends on what you’re building. The Replica Prop Forum is a good place to start, and cosplayers will have some experience with wearables as well. Search engines are your friend in finding what you need here.

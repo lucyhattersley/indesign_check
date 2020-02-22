@@ -1,0 +1,17 @@
+List of components
+We like to first make sure that people know what they need for a project. We’ll list specific components like buttons, add-ons, HATs, etc., along with basic components such as wire and resistors, and sometimes add tools you might need as well. This gives people an idea if they have the right stuff to make something.
+
+
+
+Software instructions
+Not every Raspbian build is the same, so make sure you describe how to install any extra software or Python libraries that are needed to complete your project. This includes any Terminal prompts people will have to use, and any software configuration. Not everyone will know exactly how specific bits of software work. 
+
+
+
+Getting any code
+Got code? Put it on GitHub, and include a link to it on your write-up. If it’s not huge, you can put it in your tutorial. We suggest putting it at the end usually. Give folks any other instructions related to the code (i.e. where to put it in the file system, how to launch it at boot, etc.) and get them to test it if they can.
+
+
+
+Building the hardware
+We usually leave building the hardware until the end, especially if it’s a big build. Step-by-step instructions can be really useful if you’re building a full on structure or device, and we like to use Fritzing (fritzing.org) to create circuit diagrams for people to follow along to. 
